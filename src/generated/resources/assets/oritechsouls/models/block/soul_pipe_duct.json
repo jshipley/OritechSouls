@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "oritechsouls:block/soul_pipe_duct"
+  }
+}
